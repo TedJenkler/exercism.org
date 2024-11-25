@@ -26,7 +26,7 @@ class ProgramWindow
 }
 
 
-
+?>
 
 
 <?php
@@ -40,7 +40,7 @@ class Size
 }
 
 
-
+?>
 
 <?php
 
